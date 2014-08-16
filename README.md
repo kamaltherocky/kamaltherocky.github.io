@@ -1,4 +1,6 @@
 kamaltherocky.github.io
 =======================
 
-Github Repository for my Personal Website
+Github Repository for Pages which will be served through http://kamaltherocky.github.io
+
+
